@@ -9,10 +9,20 @@ h1{
   font-weight: normal;
 }
 h2{
+  color: white;
   font-weight: 300;
   font-size: 42px;
+}
+h3 {
+  color: grey;
+  text-align: right;
+  font-weight: normal;
 }
 .links {
   font-size: 16px;
   color: Aquamarine;
+}
+.description {
+  color: grey;
+  font-size: 21px;
 }
